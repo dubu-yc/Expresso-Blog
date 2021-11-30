@@ -7,7 +7,12 @@ time spent: 1.0 hr
 */
 
 
-* {
+* 
+body {
+  background-color: #ADD8E6;
+}
+
+{
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-weight: bold;
   color: #FFC0CB;
