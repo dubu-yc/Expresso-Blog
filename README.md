@@ -2,7 +2,14 @@
 **Roster & Roles:**<br/>
 *Daniel (Project Manager):* Managed front-end development (templating & styling) & worked on backend (routing, login & register, listing blog posts).<br/>
 *Joshua:* Coded the basic functionality of the website as well as the file structure for storing blogs.<br/>
-*Sophie:* Did lots of bugtesting. Wrote the about page.<br/>
+*Sophie:* Did lots of bugtesting. Wrote the about page.<br/> <br/>
+
+*Team Softlocked Ducks:* Edited CSS of the app, resized many functions.
+
+## Notable Things
+Even with the original app using a lot of CSS, stripping all of it away at once did not affect the functionality of the website.
+Although, of course, it looked quite odd without CSS!
+We added CSS inspired by our own projects just to see what it would look like, and we were pleasantly surprised.
 
 ### What is Expresso?
 Expresso is a blogging website where you can create your own blog! Register for an account, name your blog, and you’re on your way to expressing yourself. The home menu will also display recent posts made by other people, while the Discover tab allows you to look at specific people, and what they’ve posted on their blog! Edit your posts at the click of a button and post whenever you feel like it!
