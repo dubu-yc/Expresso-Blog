@@ -8,14 +8,12 @@ time spent: 1.0 hr
 
 
 * 
-{
-  background-color: #ADD8E6;
-}
 
 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-weight: bold;
   color: #FFC0CB;
+  background-color: #ADD8E6;
 }
 
 .header {
