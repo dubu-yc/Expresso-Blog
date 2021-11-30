@@ -1,0 +1,113 @@
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: bold;
+  color: #FFC0CB;
+}
+
+.header {
+  background-color: #EDEDED;
+  padding: 2%;
+  text-align: center;
+  font-size: xx-large;
+  margin-left: 1%;
+  margin-bottom: 1%;
+  margin-top: 2%;
+  width: 94%;
+  height: 10%;
+  border-radius: 4px;
+}
+
+.standardBlock {
+  background-color: #EDEDED;
+  padding: 2%;
+  padding-top: 1%;
+  font-size: large;
+  margin-left: 1%;
+  margin-bottom: 1%;
+  margin-top: 1.5%;
+  width: 94%;
+  height: 10%;
+  border-radius: 4px;
+}
+
+#create_option {
+  padding-top: 2%;
+
+}
+
+label {
+font-size: 80%;
+}
+
+input[type=text], input[type=password], textarea {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  transition-duration: .3s;
+  background-color: #58C55C;
+  color: white;
+}
+
+a:link {
+text-decoration: none
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.logout {
+  background-color: #D45653 !important;
+}
+
+.logout:hover {
+  background-color: #E25B57 !important;
+}
+
+/* NAVBAR STUFF */
+ul {
+  width: 98%;
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 4px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
