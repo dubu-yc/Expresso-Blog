@@ -4,7 +4,7 @@
 *Joshua:* Coded the basic functionality of the website as well as the file structure for storing blogs.<br/>
 *Sophie:* Did lots of bugtesting. Wrote the about page.<br/> <br/>
 
-*Team Softlocked Ducks:* Edited CSS of the app, resized many functions.
+*Team Softlocked Ducks (Josephine Lee, Yoonah Chang, Michael Borczuk, Eric Guo):* Edited CSS of the app, resized many functions.
 
 ## Notable Things
 Even with the original app using a lot of CSS, stripping all of it away at once did not affect the functionality of the website.
